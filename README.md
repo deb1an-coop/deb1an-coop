@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @deb1an-coop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey, I'm Nawaz 👋
 
-<!---
-deb1an-coop/deb1an-coop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Software Engineer with 5+ years building distributed systems and AI-powered applications.
+
+**What I work with:**
+Python · TypeScript · FastAPI · Celery · Temporal · Azure OpenAI · LangChain · Docker · Kubernetes
+
+**What I'm building:**
+- Production RAG systems with Azure OpenAI & LangChain
+- Distributed workflow orchestration (Celery → Temporal migrations)
+- Full-stack applications with React/Next.js + Python backends
+
+**Currently exploring:** Agentic AI, LangGraph, and production ML workflows
+
+📍 Kolkata, India · [LinkedIn](https://www.linkedin.com/in/nawaz-sk-b87380186) · [Portfolio](tbd)
