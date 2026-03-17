@@ -12,4 +12,4 @@ Python · TypeScript · FastAPI · Celery · Temporal · Azure OpenAI · LangCha
 
 **Currently exploring:** Agentic AI, LangGraph, and production ML workflows
 
-📍 Kolkata, India · [LinkedIn](https://www.linkedin.com/in/nawaz-sk-b87380186) · [Portfolio](tbd)
+📍 Kolkata, India · [LinkedIn](https://www.linkedin.com/in/nawaz-sk-b87380186) 
